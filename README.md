@@ -36,7 +36,7 @@ This structure makes it easy to add new purchases to the database and to retriev
 To install and run this project, you will need Node.js and npm installed on your computer. After this, you can clone the project and install its dependencies:
 
 ```bash
-git clone https://github.com/your-repo/ToyTypescript.git
+git clone https://github.com/johnhjh/ToyTypeScript.git
 cd ToyTypescript
 npm install
 ```
